@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Mar 01 06:35:12 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0186-9baa-e04f-00000f59d570 
+on database directory memory:/media/edoyou/HDD/Kanan/epam.projects/topic07-task02/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7a4f0f29 
+Loaded from file:/home/edoyou/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Private Build
+java.runtime.version=19.0.1+10-Ubuntu-1ubuntu122.04
+user.dir=/media/edoyou/HDD/Kanan/epam.projects/topic07-task02
+os.name=Linux
+os.arch=amd64
+os.version=5.19.0-32-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 01 06:35:13 CET 2023: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Mar 01 06:35:13 CET 2023:
+Shutting down instance a816c00e-0186-9baa-e04f-00000f59d570 on database directory memory:/media/edoyou/HDD/Kanan/epam.projects/topic07-task02/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7a4f0f29 
+----------------------------------------------------------------
